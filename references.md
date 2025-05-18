@@ -1,4 +1,4 @@
 # References
 
 * octocat 1 😈
-* Here i the conflict
+* Here is the conflict
